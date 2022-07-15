@@ -39,7 +39,7 @@
 
 /* Place the container to the right */
 .right-5 {
-    padding: 0px 0px 20px 40px;
+    padding: 0px 0px 20px 20px;
     left: auto;
 }
 
@@ -49,7 +49,7 @@
     position: absolute;
     top: 18px;
     z-index: 1;
-    left: 30px;
+    left: 10px;
     border: medium solid #2B72EE;
     border-width: 10px 10px 10px 0;
     border-color: transparent #2B72EE transparent transparent;
